@@ -8,6 +8,9 @@ body {
     --blue: rgba(60, 46, 226, 255)
 }
 
+.title{
+    font-size:1.8rem
+}
 .card__img {
     width: 100%;
     border-top-left-radius: 10px;
